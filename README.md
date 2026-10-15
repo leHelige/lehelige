@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luís Dias
+# Luís 'lehelige' Dias
 
 **DIGITAL FORENSICS & INCIDENT RESPONSE**  ·  **THREAT HUNTING**  ·  **DETECTION ENGINEERING**
 
